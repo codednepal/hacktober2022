@@ -1,4 +1,4 @@
-// a program to calculate area of Rectangle inJava
+// a program to calculate area of Rectangle in Java
 import java.util.Scanner;
 class AreaOfRectangle 
 {
