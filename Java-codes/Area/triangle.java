@@ -1,5 +1,5 @@
 
-// a program to calculate area of triangleJava
+// a program to calculate area of triangle in Java
 import java.util.Scanner;
 class AreaOfTriangle 
 {
