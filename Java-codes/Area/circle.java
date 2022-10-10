@@ -9,6 +9,6 @@ public class AreaOfCircle {
         Double radius = sn.nextDouble();
          
         Double area = Math.PI * radius * radius;        
-        System.out.println("Area = "+area);
+        System.out.println("Area of circle = "+area);
     }
 }
