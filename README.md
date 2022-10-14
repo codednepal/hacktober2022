@@ -15,3 +15,17 @@
   
 <p align="center"><b>Open source for everybody.</b></p>
 </p>
+
+## Contributing
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+
+## Follow These steps
+ 1. Fork this repository
+ 2. Add your roadmap to the respective folder
+ 3. Create a pull request
+ 4. Wait for review
+
