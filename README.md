@@ -1,9 +1,6 @@
 
 # Hacktober-fest(2022)
 
-
-
-
 <p align="center">
   <a href="https://github.com/codednepal/hacktober2022/stargazers" target="_blank">
   <img alt="GitHub Stars" src="https://img.shields.io/github/stars/codednepal/hacktober2022" />
