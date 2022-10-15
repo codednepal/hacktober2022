@@ -1,3 +1,4 @@
+<h2 align=center> Give a Star to This repo:fire::star:</h2>
 
 # Hacktober-fest(2022)
 
@@ -21,6 +22,7 @@ See `contributing.md` for ways to get started.
 
 
 ## Follow These steps
+
  1. Fork this repository
  2. Add your roadmap to the respective folder
  3. Create a pull request
