@@ -8,7 +8,7 @@ Module Program
         height = Console.ReadLine()
         Dim area As Integer
         area = base * height
-        Console.WriteLine("Aerea of Parallelogram {0}", area)
+        Console.WriteLine("Area of Parallelogram {0}", area)
         Console.ReadKey()
     End Sub
 End Module
