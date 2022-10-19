@@ -1,30 +1,53 @@
-<h2 align=center> Give a Star to This repo:fire::star:</h2>
+# <center> Hacktober Fest 2022 </center>
 
-# Hacktober-fest(2022)
+# Welcome To Hacktober 2022 👋
+
+
+**codednepal** is a open source project which contains different C codes , JAVA codes , C++ codes , web projects , React/portfolio projects etc. which makes your life easier for learning . *You can submit your projects or raise/claim issues on existing projects*
 
 <p align="center">
-  <a href="https://github.com/codednepal/hacktober2022/stargazers" target="_blank">
-  <img alt="GitHub Stars" src="https://img.shields.io/github/stars/codednepal/hacktober2022" />
-  </a>
-  <a href="https://github.com/codednepal/hacktober2022/network/members" target="_blank">
-  <img alt="GitHub Forks" src="https://img.shields.io/github/forks/codednepal/hacktober2022" />
-  </a>
-  <br/>
-  
-<p align="center"><b>Open source for everybody.</b></p>
+    <a href="https://www.youtube.com/watch?v=nkuYH40cjo4"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s---vBDpdf1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4u3t0x3fd6ikuzkro5mh.PNG" />
+    </a>
+
+
+### We have also take codes from Udemy,NEPTEL,Codeacademy,freeCodeCamp and many more
+
+<p align="center">
+   <img alt="GitHub pull-requests" src="https://img.shields.io/github/issues-pr/MohmedIkram/hacktoberfest2021"></a>
+   <img alt="GitHub forks" src="https://img.shields.io/github/forks/MohmedIkram/Hacktoberfest2021"></a>
+   <img alt="GitHub stars" src="https://img.shields.io/github/stars/MohmedIkram/Hacktoberfest2021"></a>
 </p>
 
-## Contributing
+# Upload Different Types of Programs in any Language
 
-Contributions are always welcome!
+Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
 
-See `contributing.md` for ways to get started.
+# Show some ❤️ by staring ⭐️ this repository.
 
+# What is Hacktoberfest?
 
-## Follow These steps
+Hacktoberfest is a program by Digital Ocean, DEV and Github, where you can easily win a T-Shirt just by making 4 pull requests in the month of October to any open source projects on Github.
 
- 1. Fork this repository
- 2. Add your roadmap to the respective folder
- 3. Create a pull request
- 4. Wait for review
+## Steps to follow:
 
+### 1. Register for Hacktoberfest
+
+##### https://hacktoberfest.digitalocean.com/
+
+### 2. Add a Program in any Language you like:
+
+Add any Simple or Complex Program in any language you Like in this Repository by clicking "Add File -> Create new File".
+
+### 3. Create Pull Request:
+
+Once you have completed these steps, you are ready to start contributing by clicking on Create Pull Request.
+
+### 4. Give this Project a Star:
+
+If you liked working on this project, please share this project as much as you can and star this project to help as many people in opensource as you can.
+
+## Note:
+
+1. Don't Create Pull Request to update "readme.md" File.
+2. Upload or Create File in Specified Language Folder.
+3. If Specified Language Folder not Found then Create Folder and then Upload or Create File.
