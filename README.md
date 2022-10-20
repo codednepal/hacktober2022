@@ -1,6 +1,6 @@
 <p align="center">
      <a href="https://www.facebook.com/codednepal">
-         <img src="Images/Coded_logo.png" align="center" alt="CodedNepal-logo" width="100"/>
+         <img src="Images/Coded_logo.png" align="center" alt="CodedNepal-logo" width="300"/>
      </a>
 </p>
  <h1 align="center" style="border: 0;">  Hacktober Fest 2022 </h1>
