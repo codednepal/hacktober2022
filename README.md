@@ -31,6 +31,7 @@
 - [C++-Programming](/c++)
 - [Java-Programming](/Java-codes)
 - [React](/React)
+- [Python Programming](/Python)
 - [Web-Projects](/Web)
 
 
@@ -49,5 +50,4 @@ If you liked working on this project, please share this project as much as you c
 
 1. Don't Create Pull Request to update "readme.md" File.
 2. Upload or Create File in Specified Language Folder.
-3. If Specified Language Folder not Found then Create Folder and then Upload or Create File.
 3. If Specified Language Folder not Found then Create Folder and then Upload or Create File.
