@@ -1,0 +1,169 @@
+
+body{
+    width: 100%;
+    background-image: url("4.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+
+.navbar{
+    width:1800px;
+    height:75px;
+    margin: auto;
+}
+
+.logo{
+    color:rgb(175, 224, 83);
+    font-style:30px;
+    padding-top:10px;
+    float:left;
+    font-size:40px;
+
+}
+
+.search{
+    width: 150px;
+    float:right;
+    margin-right: 500px;
+
+}
+
+.srch{
+    font-family: 'Times New Roman';
+    width:300px;
+    height:45px;
+    background: transparent;
+    border:1px solid rgb(178, 94, 94);;
+    margin-top:35px;
+    color:rgb(255, 236, 240);
+    padding:10px;
+    font-size:15px;
+    float:left;
+
+}
+.btn{
+    width:75px;
+    height:50px;
+    background:olivedrab;
+    
+}
+
+.form{
+    width:250px;
+    height:350px;
+    background: linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%);
+    position: absolute;
+    top: 275px;
+    left:100px;
+    border-radius:11px;
+    padding:25px;
+}
+.form h1{
+    width:220px;
+    font-family: sans-serif;
+    text-align: center;
+    color:rgb(18, 70, 160);
+    font-size: 22px;
+    background-color: rgb(153, 164, 174);
+    border-radius: 10px;
+    margin: 2px;
+    padding: 8px;
+
+}
+.form input{
+    width: 240px;
+    height:34px;
+    background: transparent;
+    border-bottom: 1px,solid;
+    border-top:none;
+    border-right:none;
+    border-left:none;
+    color:rgb(237, 225, 225);
+    font-size:16px;
+    letter-spacing:1.5px;
+    margin-top:30px;
+    font-family: sans-serif;
+
+}
+.form input:focus{
+    outline:none;
+}
+::placeholder{
+    color:rgb(240, 236, 230);
+    font-family:Arial;
+}
+.form .link{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding-top:18px;
+    text-align: center;
+    color:brown;
+
+}
+.liw{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding-top:18px;
+    text-align: center;
+    color:brown;
+
+}
+
+.content{
+    width:1100px;
+    height:auto;
+    margin: auto;
+    color:blanchedalmond;
+    position:relative;
+    background:scroll;
+
+}
+.content{
+    width:700px;
+    height:auto;
+    margin:auto;
+    color:rgb(171, 255, 2);
+    position:relative;
+
+}
+.content .par{
+    font-size:30px;
+padding-left: 18px;
+padding-bottom: 17px;
+font-family: 'Times New Roman', Times, serif;
+letter-spacing: 1.5px;
+
+}
+.content h1{
+    font-size: 55px;
+    padding-left:55px;
+    margin-top: 35%;
+    letter-spacing: 1.8px;
+}
+.content .cn{
+    font-size:20px;
+    width:150px;
+    height:40px;
+    background:rgb(171, 255, 2);
+
+}
+.content .cn a{
+    text-decoration: none;
+}
+
+.container{
+    float:right;
+margin-right: 100px;
+margin-top: 190px;
+
+}
+.container .btn{
+    font-size: 25px;
+    background: rgba(95, 95, 95, 0.986);
+}
+.container .btn a{
+    text-decoration: none;
+    color:aliceblue;
+}
+
+
