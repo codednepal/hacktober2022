@@ -31,7 +31,7 @@
 - [C++-Programming](/c++)
 - [Java-Programming](/Java-codes)
 - [React](/React)
-- [Python Programming](/Python)
+- [Python Programming](/python)
 - [Web-Projects](/Web)
 
 
