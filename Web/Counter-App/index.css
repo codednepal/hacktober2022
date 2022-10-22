@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    text-align: center;
+
+}
+body{
+    background-color: azure;
+}
+h1{
+    font-size: 50px;
+    color: crimson;
+    align-items: center;
+    padding-top: 50px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2{
+    align-items: center;
+    border-color: aqua;
+    border-radius: 5px;
+    text-align:center;
+    padding-top: 50px;
+    font-size: 25px;
+
+}
+#incr{
+    background: darkred;  
+    text-align: center;
+    align-items: center;
+}
+#save{
+    background: darkgreen   ;  
+
+}
+p{
+    font-size: 10px;
+    padding: 20pxlacklack;
+}
+button{
+    color: azure;
+    padding: 20PX;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    font-weight: bold;
+    width: 200px;
+    border: none;
+}
