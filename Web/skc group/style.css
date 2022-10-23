@@ -1,0 +1,68 @@
+.logo {
+    height: 250px;
+    margin-left: 50px;
+
+}
+
+.btn {
+    height: 50px;
+    width: 180px;
+    padding: 50px;
+    margin: 10px;
+    padding: 10px;
+    font: style bold 1000%;
+    color: rgb(121, 6, 235);
+}
+
+.text {
+    font-family: sans-serif;
+    text-align: left;
+    color: rgb(133, 114, 178);
+}
+
+.abc {
+    color: black;
+}
+
+.form {
+    width: 220px;
+    height: 130px;
+    background-color: lightslategrey;
+    border-radius: 10px;
+    padding: 50px;
+    margin-bottom: 20px;
+
+
+}
+
+.form h1 {
+    width: 220px;
+    font-family: sans-serif;
+    text-align: center;
+    color: rgb(239, 242, 247);
+    font-size: 22px;
+    margin: 2px;
+    padding: 8px;
+
+}
+
+.form input {
+    width: 240px;
+    height: 34px;
+    background: transparent;
+    border-bottom: 1px, solid;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    color: rgb(8, 8, 8);
+    font-size: 20px;
+    margin-top: 25px;
+    font-family: sans-serif;
+}
+
+
+
+::placeholder {
+    color: rgb(11, 9, 5);
+    font-family: Arial;
+}
