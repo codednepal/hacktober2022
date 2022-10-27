@@ -2,7 +2,7 @@ enum Result {
     TRUE, FALSE
 }
 
-class Solution {
+class RegularExpressionMatching {
     Result[][] memo;
 
     public boolean isMatch(String text, String pattern) {
